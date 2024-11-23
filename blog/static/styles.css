@@ -1,0 +1,25 @@
+body {
+    background-color: lightskyblue;
+}
+
+div {
+    margin-right: 25%;
+}
+
+h1, h2, p, a, small {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.button {
+    padding: 3px 6px;
+    border: 3px outset black;
+    border-radius: 3px;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
+
+textarea {
+    width: 35%;
+}
+
